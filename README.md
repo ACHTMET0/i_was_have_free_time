@@ -26,7 +26,7 @@ Dynamic UI: The UI updates dynamically based on user interaction.
 Usage
 
 #### Clone this repository to your local machine:
-- git clone (https://github.com/your-username/countdown-app.git)
+- git clone ([https://github.com/your-username/countdown-app.git](https://github.com/ACHTMET0/i_was_have_free_time))
   
 #### Navigate to the project directory:
 - cd countdown-app
@@ -37,8 +37,5 @@ Usage
 #### Run the app:
 - flutter run
 
-Developer Information
-This project is built using Flutter. If you find any issues or would like to contribute, feel free to open a pull request.
-
-- # License
+- ## License
 [This project is licensed under the MIT License.]
