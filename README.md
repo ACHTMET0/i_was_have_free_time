@@ -24,28 +24,21 @@ Reset: Option to reset the countdown.
 Time Selection: Users can set the time for the countdown.
 Dynamic UI: The UI updates dynamically based on user interaction.
 Usage
-### Clone this repository to your local machine:
 
-bash
-Copy code
+#### Clone this repository to your local machine:
 - git clone (https://github.com/your-username/countdown-app.git)
+  
 #### Navigate to the project directory:
-
-bash
-Copy code
 - cd countdown-app
+  
 #### Install the Flutter dependencies:
-
-bash
-Copy code
 - flutter pub get
+  
 #### Run the app:
+- flutter run
 
-bash
-Copy code
-flutter run
 Developer Information
 This project is built using Flutter. If you find any issues or would like to contribute, feel free to open a pull request.
 
-License
-This project is licensed under the MIT License.
+- # License
+[This project is licensed under the MIT License.]
